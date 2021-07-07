@@ -1,0 +1,10 @@
+Group A (Contenders): Cluster 4, Cluster 1[AdjEM] > 23 (2015-Present)
+Group B (Sleepers): Cluster 0
+Group C Cluster 1[AdjEM] <= 23
+Group D (Pretenders): Cluster 3[AdjEM] > 15, 
+Group E (Wild Cards): Cluster 2
+Group F (Early Exits): Cluster 1 <= 23
+Group G (Everyone Else): Cluster 3[AdjEM] <= 15, Cluster 5
+
+
+
